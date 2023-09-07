@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c98e584a.css",
+    "main.js": "/static/js/main.51bf5e71.js",
+    "static/media/jobbg.jpg": "/static/media/jobbg.e910f65de16196da0b80.jpg",
+    "static/media/hr-project.png": "/static/media/hr-project.4b14541114bbf0b14450.png",
+    "index.html": "/index.html",
+    "main.c98e584a.css.map": "/static/css/main.c98e584a.css.map",
+    "main.51bf5e71.js.map": "/static/js/main.51bf5e71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c98e584a.css",
+    "static/js/main.51bf5e71.js"
+  ]
+}
